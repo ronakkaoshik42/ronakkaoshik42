@@ -2,7 +2,9 @@
 
 I am an ML researcher at HiLabs-UCLA working on AI, HCI, robotics and Virtual Reality. I completed my Master of Science coursework in Electrical and Computer Engineering at UCLA. I completed my undergraduate studies from IIT Gandhinagar majoring in Electrical Engineering with a minors in Computer Science. I am interested in solving problems and building end-to-end software products at the intersection of Computer Vision, Robotics, Natural Language Processing, Signal Processing and Deep Learning. 
 I have experience building software in Python, C/C++, Pytorch/Tensorflow, SQL.
+
 I have projects and publications in the areas of AI integration with Autonomous vehicles, Multimodal learning, Generative AI, causal inference, 3D Vision, fashion clothing, medical imaging, data engineering, human activity recognition and genomics.
+
 I am an avid reader and I like nonfiction books pertaining to science and technology.
 <!--
 **ronakkaoshik42/ronakkaoshik42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
